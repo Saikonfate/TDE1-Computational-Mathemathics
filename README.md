@@ -7,8 +7,6 @@
 3. Selecione um arquivo `.ipynb` da pasta `TDE1/Exemplos`.
 4. Execute as células usando o botão de reprodução ao lado de cada célula ou clique em **Ambiente de execução > Executar tudo**.
 
-O NumPy já vem instalado no Google Colab. Se aparecer um erro, execute esta célula:
-
 ## Arquivos disponíveis
 
 - `Introducao_ao_Numpy.ipynb`
